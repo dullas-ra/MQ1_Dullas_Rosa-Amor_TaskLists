@@ -1,3 +1,5 @@
+npm add bootstrap react-bootstrap <--- for bootstrap to work
+
 # Todo List App
 
 ### Our app's user stories
